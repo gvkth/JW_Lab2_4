@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="Start Lab2.4">
+    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682817998986</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra">
+      <created>1682822574568</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682822574568</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +172,7 @@
     <MESSAGE value="Add configuration file: applicationContext.xml&#10;Code: init an ApplicationContext fron config file and use it" />
     <MESSAGE value="End Lab2.3&#10;+ File hướng dẫn" />
     <MESSAGE value="Start Lab2.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Lab2.4" />
+    <MESSAGE value="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra" />
   </component>
 </project>
